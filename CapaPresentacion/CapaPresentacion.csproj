@@ -1,0 +1,303 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8E9DE5F1-5271-46A8-AB37-AE443919FFA8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>CapaPresentacion</RootNamespace>
+    <AssemblyName>CapaPresentacion</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Design, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Administradores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administradores.designer.cs">
+      <DependentUpon>Administradores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Busempleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Busempleado.designer.cs">
+      <DependentUpon>Busempleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cantiopera.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cantiopera.designer.cs">
+      <DependentUpon>Cantiopera.cs</DependentUpon>
+    </Compile>
+    <Compile Include="crystal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="crystal.Designer.cs">
+      <DependentUpon>crystal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Empleoperacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Empleoperacion.designer.cs">
+      <DependentUpon>Empleoperacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmrEmpleados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrEmpleados.designer.cs">
+      <DependentUpon>FmrEmpleados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1Orden de Produccion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1Orden de Produccion.designer.cs">
+      <DependentUpon>Form1Orden de Produccion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formhorario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formhorario.designer.cs">
+      <DependentUpon>Formhorario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formingeni.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formingeni.designer.cs">
+      <DependentUpon>Formingeni.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlogin.designer.cs">
+      <DependentUpon>Formlogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formnuevo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formnuevo.Designer.cs">
+      <DependentUpon>Formnuevo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formopyem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formopyem.designer.cs">
+      <DependentUpon>Formopyem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formotroconcepto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formotroconcepto.designer.cs">
+      <DependentUpon>Formotroconcepto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formregisusuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formregisusuario.designer.cs">
+      <DependentUpon>Formregisusuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formreporte1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formreporte1.Designer.cs">
+      <DependentUpon>Formreporte1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formtodas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formtodas.designer.cs">
+      <DependentUpon>Formtodas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTPROCESO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTPROCESO.Designer.cs">
+      <DependentUpon>FormTPROCESO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmop.Designer.cs">
+      <DependentUpon>Frmop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmopera.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmopera.Designer.cs">
+      <DependentUpon>Frmopera.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Iop.cs" />
+    <Compile Include="Ioperacion.cs" />
+    <Compile Include="Ioperafin.cs" />
+    <Compile Include="Iopfinal.cs" />
+    <Compile Include="Operadm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Operadm.designer.cs">
+      <DependentUpon>Operadm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Unico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Unico.Designer.cs">
+      <DependentUpon>Unico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuario.designer.cs">
+      <DependentUpon>Usuario.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Administradores.resx">
+      <DependentUpon>Administradores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Busempleado.resx">
+      <DependentUpon>Busempleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cantiopera.resx">
+      <DependentUpon>Cantiopera.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="crystal.resx">
+      <DependentUpon>crystal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Empleoperacion.resx">
+      <DependentUpon>Empleoperacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmrEmpleados.resx">
+      <DependentUpon>FmrEmpleados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1Orden de Produccion.resx">
+      <DependentUpon>Form1Orden de Produccion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formhorario.resx">
+      <DependentUpon>Formhorario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formingeni.resx">
+      <DependentUpon>Formingeni.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlogin.resx">
+      <DependentUpon>Formlogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formnuevo.resx">
+      <DependentUpon>Formnuevo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formopyem.resx">
+      <DependentUpon>Formopyem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formotroconcepto.resx">
+      <DependentUpon>Formotroconcepto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formregisusuario.resx">
+      <DependentUpon>Formregisusuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formreporte1.resx">
+      <DependentUpon>Formreporte1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formtodas.resx">
+      <DependentUpon>Formtodas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTPROCESO.resx">
+      <DependentUpon>FormTPROCESO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmop.resx">
+      <DependentUpon>Frmop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmopera.resx">
+      <DependentUpon>Frmopera.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Operadm.resx">
+      <DependentUpon>Operadm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Unico.resx">
+      <DependentUpon>Unico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usuario.resx">
+      <DependentUpon>Usuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CapaEntidades\CapaEntidades.csproj">
+      <Project>{c1d55d32-fc96-44ea-9bdd-ef85e379d9f4}</Project>
+      <Name>CapaEntidades</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CapaNegocios\CapaNegocios.csproj">
+      <Project>{6c0785d2-24c0-409f-895e-f501cf2166ce}</Project>
+      <Name>CapaNegocios</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ClassLibrary1\CapaDatos.csproj">
+      <Project>{dcb038dd-cb9b-407d-be7f-380e9c76e961}</Project>
+      <Name>CapaDatos</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

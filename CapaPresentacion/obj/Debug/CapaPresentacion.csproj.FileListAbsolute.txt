@@ -1,0 +1,167 @@
+C:\Users\family\Desktop\paginas web\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\family\Desktop\paginas web\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\WindowsFormsApp1.FrmEmpleados.resources
+C:\Users\family\Desktop\paginas web\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\family\Desktop\paginas web\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\family\Desktop\paginas web\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\family\Desktop\paginas web\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\family\Desktop\paginas web\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\family\Desktop\paginas web\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\CapaEntidades.dll
+C:\Users\family\Desktop\paginas web\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\CapaNegocios.dll
+C:\Users\family\Desktop\paginas web\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\ClassLibrary1.dll
+C:\Users\family\Desktop\paginas web\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+C:\Users\family\Desktop\paginas web\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\family\Desktop\paginas web\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\family\Desktop\paginas web\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\family\Desktop\paginas web\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\family\Desktop\paginas web\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\FlashControlV71.dll
+C:\Users\family\Desktop\paginas web\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\CrystalDecisions.Web.dll
+C:\Users\family\Desktop\paginas web\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\family\Desktop\paginas web\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\family\Desktop\paginas web\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\family\Desktop\paginas web\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\family\Desktop\paginas web\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\family\Desktop\paginas web\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\family\Desktop\paginas web\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\family\Desktop\paginas web\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\family\Desktop\paginas web\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\family\Desktop\paginas web\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\family\Desktop\paginas web\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\family\Desktop\paginas web\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\family\Desktop\paginas web\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\family\Desktop\paginas web\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\stdole.dll
+C:\Users\family\Desktop\paginas web\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+C:\Users\family\Desktop\paginas web\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+C:\Users\family\Desktop\paginas web\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\ClassLibrary1.pdb
+C:\Users\family\Desktop\paginas web\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\WindowsFormsApp1.Administradores.resources
+C:\Users\family\Desktop\paginas web\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\WindowsFormsApp1.Busempleado.resources
+C:\Users\family\Desktop\paginas web\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\WindowsFormsApp1.Cantiopera.resources
+C:\Users\family\Desktop\paginas web\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\WindowsFormsApp1.Empleoperacion.resources
+C:\Users\family\Desktop\paginas web\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\WindowsFormsApp1.Form1Orden_de_Produccion.resources
+C:\Users\family\Desktop\paginas web\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\WindowsFormsApp1.Formhorario.resources
+C:\Users\family\Desktop\paginas web\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\WindowsFormsApp1.Formingeni.resources
+C:\Users\family\Desktop\paginas web\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\WindowsFormsApp1.Formlogin.resources
+C:\Users\family\Desktop\paginas web\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\WindowsFormsApp1.Formopyem.resources
+C:\Users\family\Desktop\paginas web\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\WindowsFormsApp1.Formotroconcepto.resources
+C:\Users\family\Desktop\paginas web\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\WindowsFormsApp1.Formregisusuario.resources
+C:\Users\family\Desktop\paginas web\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\WindowsFormsApp1.Formtodas.resources
+C:\Users\family\Desktop\paginas web\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\WindowsFormsApp1.Operadm.resources
+C:\Users\family\Desktop\paginas web\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\WindowsFormsApp1.Usuario.resources
+C:\Users\family\Desktop\paginas web\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\family\Desktop\paginas web\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\family\Desktop\paginas web\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\family\Desktop\paginas web\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\CapaPresentacion.Unico.resources
+C:\Users\family\Desktop\paginas web\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\family\Desktop\paginas web\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\CapaPresentacion.Frmopera.resources
+C:\Users\family\Desktop\paginas web\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\CapaPresentacion.Frmop.resources
+C:\Users\PC\Desktop\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\PC\Desktop\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\PC\Desktop\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\PC\Desktop\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\CapaEntidades.dll
+C:\Users\PC\Desktop\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\CapaNegocios.dll
+C:\Users\PC\Desktop\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\ClassLibrary1.dll
+C:\Users\PC\Desktop\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\CrystalDecisions.Web.dll
+C:\Users\PC\Desktop\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\PC\Desktop\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\PC\Desktop\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\PC\Desktop\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\PC\Desktop\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\PC\Desktop\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\PC\Desktop\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\PC\Desktop\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\PC\Desktop\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\PC\Desktop\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\PC\Desktop\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\PC\Desktop\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\PC\Desktop\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\PC\Desktop\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\stdole.dll
+C:\Users\PC\Desktop\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+C:\Users\PC\Desktop\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+C:\Users\PC\Desktop\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\ClassLibrary1.pdb
+C:\Users\PC\Desktop\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\WindowsFormsApp1.Administradores.resources
+C:\Users\PC\Desktop\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\WindowsFormsApp1.Busempleado.resources
+C:\Users\PC\Desktop\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\WindowsFormsApp1.Cantiopera.resources
+C:\Users\PC\Desktop\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\WindowsFormsApp1.Empleoperacion.resources
+C:\Users\PC\Desktop\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\WindowsFormsApp1.FrmEmpleados.resources
+C:\Users\PC\Desktop\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\WindowsFormsApp1.Form1Orden_de_Produccion.resources
+C:\Users\PC\Desktop\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\WindowsFormsApp1.Formhorario.resources
+C:\Users\PC\Desktop\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\WindowsFormsApp1.Formingeni.resources
+C:\Users\PC\Desktop\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\WindowsFormsApp1.Formlogin.resources
+C:\Users\PC\Desktop\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\WindowsFormsApp1.Formopyem.resources
+C:\Users\PC\Desktop\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\WindowsFormsApp1.Formotroconcepto.resources
+C:\Users\PC\Desktop\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\WindowsFormsApp1.Formregisusuario.resources
+C:\Users\PC\Desktop\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\WindowsFormsApp1.Formtodas.resources
+C:\Users\PC\Desktop\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\CapaPresentacion.Frmop.resources
+C:\Users\PC\Desktop\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\CapaPresentacion.Frmopera.resources
+C:\Users\PC\Desktop\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\WindowsFormsApp1.Operadm.resources
+C:\Users\PC\Desktop\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\PC\Desktop\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\CapaPresentacion.Unico.resources
+C:\Users\PC\Desktop\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\WindowsFormsApp1.Usuario.resources
+C:\Users\PC\Desktop\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\PC\Desktop\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\PC\Desktop\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\PC\Desktop\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+C:\Users\PC\Desktop\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\PC\Desktop\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\PC\Desktop\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\PC\Desktop\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\PC\Desktop\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\FlashControlV71.dll
+C:\Users\PC\Desktop\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\CapaPresentacion.Formnuevo.resources
+C:\Users\PC\Desktop\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\CapaPresentacion.Formreporte1.resources
+C:\Users\PC\Desktop\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\CapaPresentacion.crystal.resources
+C:\Users\PC\Desktop\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\CapaPresentacion.FormTPROCESO.resources
+D:\Produccion01\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\Produccion01\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+D:\Produccion01\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\Produccion01\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\CapaEntidades.dll
+D:\Produccion01\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\CapaNegocios.dll
+D:\Produccion01\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\ClassLibrary1.dll
+D:\Produccion01\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\CrystalDecisions.Web.dll
+D:\Produccion01\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Produccion01\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Produccion01\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Produccion01\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Produccion01\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Produccion01\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Produccion01\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Produccion01\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Produccion01\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Produccion01\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Produccion01\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Produccion01\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\ShockwaveFlashObjects.dll
+D:\Produccion01\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Produccion01\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\stdole.dll
+D:\Produccion01\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+D:\Produccion01\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+D:\Produccion01\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\bin\Debug\ClassLibrary1.pdb
+D:\Produccion01\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+D:\Produccion01\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\WindowsFormsApp1.Administradores.resources
+D:\Produccion01\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\WindowsFormsApp1.Busempleado.resources
+D:\Produccion01\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\WindowsFormsApp1.Cantiopera.resources
+D:\Produccion01\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\CapaPresentacion.crystal.resources
+D:\Produccion01\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\WindowsFormsApp1.Empleoperacion.resources
+D:\Produccion01\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\WindowsFormsApp1.FrmEmpleados.resources
+D:\Produccion01\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\WindowsFormsApp1.Form1Orden_de_Produccion.resources
+D:\Produccion01\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\WindowsFormsApp1.Formhorario.resources
+D:\Produccion01\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\WindowsFormsApp1.Formingeni.resources
+D:\Produccion01\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\WindowsFormsApp1.Formlogin.resources
+D:\Produccion01\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\CapaPresentacion.Formnuevo.resources
+D:\Produccion01\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\WindowsFormsApp1.Formopyem.resources
+D:\Produccion01\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\WindowsFormsApp1.Formotroconcepto.resources
+D:\Produccion01\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\WindowsFormsApp1.Formregisusuario.resources
+D:\Produccion01\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\CapaPresentacion.Formreporte1.resources
+D:\Produccion01\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\WindowsFormsApp1.Formtodas.resources
+D:\Produccion01\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\CapaPresentacion.FormTPROCESO.resources
+D:\Produccion01\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\CapaPresentacion.Frmop.resources
+D:\Produccion01\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\CapaPresentacion.Frmopera.resources
+D:\Produccion01\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\WindowsFormsApp1.Operadm.resources
+D:\Produccion01\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\Produccion01\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\CapaPresentacion.Unico.resources
+D:\Produccion01\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\WindowsFormsApp1.Usuario.resources
+D:\Produccion01\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+D:\Produccion01\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+D:\Produccion01\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+D:\Produccion01\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+D:\Produccion01\produccion y eficiencia de empleados\CapaDatos\CapaPresentacion\obj\Debug\CapaPresentacion.pdb

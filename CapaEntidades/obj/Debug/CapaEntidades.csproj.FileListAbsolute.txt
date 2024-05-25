@@ -1,0 +1,18 @@
+C:\Users\family\Desktop\paginas web\produccion y eficiencia de empleados\CapaDatos\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\family\Desktop\paginas web\produccion y eficiencia de empleados\CapaDatos\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\family\Desktop\paginas web\produccion y eficiencia de empleados\CapaDatos\CapaEntidades\obj\Debug\CapaEntidades.csprojAssemblyReference.cache
+C:\Users\family\Desktop\paginas web\produccion y eficiencia de empleados\CapaDatos\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\family\Desktop\paginas web\produccion y eficiencia de empleados\CapaDatos\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\family\Desktop\paginas web\produccion y eficiencia de empleados\CapaDatos\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\PC\Desktop\produccion y eficiencia de empleados\CapaDatos\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\PC\Desktop\produccion y eficiencia de empleados\CapaDatos\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\PC\Desktop\produccion y eficiencia de empleados\CapaDatos\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\produccion y eficiencia de empleados\CapaDatos\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\produccion y eficiencia de empleados\CapaDatos\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\PC\Desktop\produccion y eficiencia de empleados\CapaDatos\CapaEntidades\obj\Debug\CapaEntidades.pdb
+D:\Produccion01\produccion y eficiencia de empleados\CapaDatos\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\Produccion01\produccion y eficiencia de empleados\CapaDatos\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\Produccion01\produccion y eficiencia de empleados\CapaDatos\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+D:\Produccion01\produccion y eficiencia de empleados\CapaDatos\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+D:\Produccion01\produccion y eficiencia de empleados\CapaDatos\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\Produccion01\produccion y eficiencia de empleados\CapaDatos\CapaEntidades\obj\Debug\CapaEntidades.pdb
